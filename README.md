@@ -1,4 +1,4 @@
-# millennium-dawn-2026
+
 Millennium Dawn 2026 Overhaul
 For HOI4 1.14.1 · Based on Millennium Dawn: Modern Day Mod
 The last major Millennium Dawn update removed the 2017 start date, keeping only the 2000 one. This mod restores a modern start — set to January 1, 2026.
